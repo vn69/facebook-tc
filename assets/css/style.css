@@ -440,6 +440,9 @@ h6 {
   #hero .hero-img img {
     width: 70%;
   }
+  .mt-115 {
+    margin-top: 115px;
+  }
 }
 @media (max-width: 575px) {
   #hero .hero-img img {
